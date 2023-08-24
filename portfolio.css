@@ -163,3 +163,11 @@ line-height: 30px;
 #what-i-do-description{
     padding: 30px 150px;
 }
+
+/*Resume section*/
+.resume-column-title{
+    color: #474747;
+
+    font-size: 30px;
+    font-weight: 700;
+}
